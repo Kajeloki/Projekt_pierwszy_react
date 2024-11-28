@@ -46,8 +46,17 @@
 ## Aplication view
 The whole page:
 <img src=https://github.com/user-attachments/assets/a6316a7c-15e3-41f5-9373-43fb85d8cb4c>
-The "New expense" component closed/rolled up:
-The "New expense" component open/outspread:
-The expenses chart with diagram, year filter and list of expenses for choosen year:
+The website includes:
+<ul>
+  <li>The "New expense" component closed/rolled up:
+<img src="https://github.com/user-attachments/assets/57665258-cbb6-40da-a66f-ed8224a377a9"></li>
+  <li>The "New expense" component open/outspread:
+<img src="https://github.com/user-attachments/assets/1246cd60-35b5-43ab-93af-73d0acb6cdf2"></li>
+  <li>The expenses chart with diagram, year filter and list of expenses for choosen year:
+<img src="https://github.com/user-attachments/assets/81d09413-1d0f-4866-b823-a0d7baf17def"></li>
+</ul>
+
+
+
 
 
