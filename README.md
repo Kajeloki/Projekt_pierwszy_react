@@ -44,4 +44,10 @@
 </details>
 
 ## Aplication view
+The whole page:
+<img src=https://github.com/user-attachments/assets/a6316a7c-15e3-41f5-9373-43fb85d8cb4c>
+The "New expense" component closed/rolled up:
+The "New expense" component open/outspread:
+The expenses chart with diagram, year filter and list of expenses for choosen year:
+
 
