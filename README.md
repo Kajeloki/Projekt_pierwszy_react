@@ -47,15 +47,15 @@
 ## Application view
 The whole page:</br>
 <img width="75%" height="15%" src=https://github.com/user-attachments/assets/a6316a7c-15e3-41f5-9373-43fb85d8cb4c></br>
-The website includes:
-<ul>
-  <li>The "New expense" component closed/rolled up:
-<img width="75%" src="https://github.com/user-attachments/assets/57665258-cbb6-40da-a66f-ed8224a377a9"></li>
-  <li>The "New expense" component open/outspread:
-<img width="75%" src="https://github.com/user-attachments/assets/1246cd60-35b5-43ab-93af-73d0acb6cdf2"></li>
-  <li>The expenses chart with diagram, year filter and list of expenses for choosen year:
-<img width="75%" src="https://github.com/user-attachments/assets/81d09413-1d0f-4866-b823-a0d7baf17def"></li>
-</ul>
+The website includes:</br>
+
+  The "New expense" component closed/rolled up:</br>
+<img width="75%" src="https://github.com/user-attachments/assets/57665258-cbb6-40da-a66f-ed8224a377a9"></br>
+  The "New expense" component open/outspread:</br>
+<img width="75%" src="https://github.com/user-attachments/assets/1246cd60-35b5-43ab-93af-73d0acb6cdf2"></br>
+  The expenses chart with diagram, year filter and list of expenses for choosen year:</br>
+<img width="75%" src="https://github.com/user-attachments/assets/81d09413-1d0f-4866-b823-a0d7baf17def"></br>
+
 Short demo of running app:</br>
 <img width="75%" src="https://github.com/user-attachments/assets/a7ae2150-301a-49b6-92f0-03edac224ff9">
 
